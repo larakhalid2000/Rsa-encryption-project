@@ -14,7 +14,7 @@ The project focuses on key generation, encryption, and decryption concepts using
 Due to the academic nature of the project, the implementation is documented within the project report.
 
 🔗 **Project Report (View Only – Google Drive):**  
-
+https://docs.google.com/document/d/1aBF3WVDdo8AmMhxqfkAwStNJhpBVsH8r/edit?usp=drive_link&ouid=105157530168701674188&rtpof=true&sd=true
 
 ## Notes
 - This project was developed as part of a Computer Science course.
